@@ -1,0 +1,80 @@
+.mstheme
+{
+	nav-banner-image: url(tidbane.gif);
+	separator-image: url(tidrulee.gif);
+	list-image-1: url(tidbul1e.gif);
+	list-image-2: url(tidbul2e.gif);
+	list-image-3: url(tidbul3e.gif);
+	navbutton-horiz-pushed: url(thbtnse.gif);
+	navbutton-horiz-normal: url(thbtnne.gif);
+	navbutton-horiz-hovered: url(thbtnhe.gif);
+	navbutton-vert-pushed: url(tvbtnse.gif);
+	navbutton-vert-normal: url(tvbtnne.gif);
+	navbutton-vert-hovered: url(tvbtnhe.gif);
+	navbutton-home-normal: url(thmbtnne.gif);
+	navbutton-home-hovered: url(thmbtnhe.gif);
+	navbutton-home-pushed: url(thmbtnne.gif);
+	navbutton-up-normal: url(tubtnne.gif);
+	navbutton-up-hovered: url(tubtnhe.gif);
+	navbutton-up-pushed: url(tubtnne.gif);
+	navbutton-prev-normal: url(tpbtnne.gif);
+	navbutton-prev-hovered: url(tpbtnhe.gif);
+	navbutton-prev-pushed: url(tpbtnne.gif);
+	navbutton-next-normal: url(tnbtnne.gif);
+	navbutton-next-hovered: url(tnbtnhe.gif);
+	navbutton-next-pushed: url(tnbtnne.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 6;
+	color: rgb(0,0,102);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxthome
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtup
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+UL
+{
+	list-style-image:url(tidbul1e.gif);
+}
+UL UL
+{
+	list-style-image:url(tidbul2e.gif);
+}
+UL UL UL
+{
+	list-style-image:url(tidbul3e.gif);
+}

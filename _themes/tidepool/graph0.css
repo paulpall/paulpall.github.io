@@ -1,0 +1,70 @@
+.mstheme
+{
+	nav-banner-image: url(tidbanc.gif);
+	separator-image: url(tidrulec.gif);
+	list-image-1: url(tidbul1c.gif);
+	list-image-2: url(tidbul2c.gif);
+	list-image-3: url(tidbul3c.gif);
+	navbutton-horiz-pushed: url(thbtnsc.gif);
+	navbutton-horiz-normal: url(thbtnnc.gif);
+	navbutton-vert-pushed: url(tvbtnsc.gif);
+	navbutton-vert-normal: url(tvbtnnc.gif);
+	navbutton-home-normal: url(thbtnc.gif);
+	navbutton-up-normal: url(tubtnc.gif);
+	navbutton-prev-normal: url(tpbtnc.gif);
+	navbutton-next-normal: url(tnbtnc.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 6;
+	color: rgb(153,0,0);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxthome
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtup
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+UL
+{
+	list-style-image:url(tidbul1c.gif);
+}
+UL UL
+{
+	list-style-image:url(tidbul2c.gif);
+}
+UL UL UL
+{
+	list-style-image:url(tidbul3c.gif);
+}
